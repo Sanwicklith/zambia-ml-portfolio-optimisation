@@ -1,0 +1,13 @@
+# Data
+data_analysis/
+
+# Outputs (optional – you can keep tables/figures if small)
+outputs/models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
